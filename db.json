@@ -1,16 +1,16 @@
 {
-	"users" : [
-		{
-			"username": "testuser1",
-			"password": "testuser1pw"
-		},
-		{
-			"username": "testuser2",
-			"password": "testuser2pw"
-		},
-		{
-			"username": "testuser3",
-			"password": "testuser3pw"
-		}
-	]
+  "users": [
+    {
+      "username": "testuser1",
+      "password": "testuser1pw"
+    },
+    {
+      "username": "testuser2",
+      "password": "testuser2pw"
+    },
+    {
+      "username": "testuser3",
+      "password": "testuser3pw"
+    }
+  ]
 }
