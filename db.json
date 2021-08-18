@@ -2,15 +2,18 @@
   "users": [
     {
       "username": "testuser1",
-      "password": "testuser1pw"
+      "password": "testuser1pw",
+      "fake_auth_token": "S0DF78S0D7F9WHRFSIJHDFS9DFSDHF98398AD7F9SHDFSDFS7DFOFS"
     },
     {
       "username": "testuser2",
-      "password": "testuser2pw"
+      "password": "testuser2pw",
+      "fake_auth_token": "KHJDHFGO8DUFG982W492HF82YHY08282HF0E2UE0F92J30F922F02J"
     },
     {
       "username": "testuser3",
-      "password": "testuser3pw"
+      "password": "testuser3pw",
+      "fake_auth_token": "JAHS0D8AU9U320DJ203JD02H3I1JL1KJ0F1J3F1IJ3F103JF13FKLF"
     }
   ]
 }
